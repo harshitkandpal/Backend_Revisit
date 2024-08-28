@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "nodemon src/index.js"
   },
-  "author": "",
+  "author": "Harshit Kandpal <harshit.kandpal@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^3.1.4",
