@@ -8,7 +8,6 @@ const subsciptionSchema = new Schema({
     chennel:{
         type: Schema.Types.ObjectId,
         ref: 'User',
-        required: true,
     },
     
 },
